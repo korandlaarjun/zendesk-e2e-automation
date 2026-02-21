@@ -1,0 +1,19 @@
+{
+  "name": "zendesk-e2e-automation",
+  "version": "1.0.0",
+  "description": "End-to-end automation tests for Zendesk",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:ui": "playwright test --ui",
+    "codegen": "playwright codegen https://zendesk.com"
+  },
+  "keywords": ["zendesk", "automation", "e2e", "playwright"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
