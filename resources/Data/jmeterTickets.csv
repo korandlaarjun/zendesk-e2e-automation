@@ -1,0 +1,101 @@
+subject,body,name,email
+Delete a Provider Account from our system,Delete Account of Dr. %&*^&* from our system. Please call 416.988.8811 to confirm the deletion. Thank you, Rosie Cervo.,Arjun,arjun@orx.ai
+Adding Dr. Librach to Group 0326 for Create West Fertility.[URGENT},Good afternoon Taylor, can we book a call to add Dr. Clifford Librach at Create West for group 0326? Still waiting from the MOH for AD6A. This is urgent because they need to start back billing to the MOH. Please call 416.988.8811. Thank you, Rosie Cervo.,Arjun,arjun@orx.ai
+Billing software,Hello, I checked the uploaded file. Several billing codes differ from the file, e.g., K017A, K130A. I fixed others, but more remain. Other clinic name is Proxima health centre. Please check the upload. Thank you, Dr. Eman Al-Shami.,Arjun,arjun@orx.ai
+Re: E-Forms,Follow-up to request #554223 E-Forms. Hi Taylor please call me at 416.988.8811 regarding a password reset. Thank you Rosie Cervo.,Arjun,arjun@orx.ai
+Diabetes Flow Sheet,Hi Erin, we’re escalating your inquiry to a senior technician. Resolution may take longer than 48 hours due to complexity. We’ll keep you updated. Thanks for your patience.,Arjun,arjun@orx.ai
+OLIS Search for IFH patients,OLIS lab results show an error for these patients and no results arrive in EMR inbox, forcing manual follow-up and faxing.,Arjun,arjun@orx.ai
+Unable to log in to provider portal,User reports login fails with invalid credentials despite reset; account is locked after 3 attempts.,Arjun,arjun@orx.ai
+Patient chart not loading,Opening patient chart spins indefinitely and then times out for multiple users.,Arjun,arjun@orx.ai
+Appointment reminders not sent,SMS reminders were not sent for appointments scheduled today across two locations.,Arjun,arjun@orx.ai
+Claim submission timeout,Batch claim submission times out after 80% progress; no confirmation is received.,Arjun,arjun@orx.ai
+Duplicate patient records,System created duplicate patient profiles when importing from CSV.,Arjun,arjun@orx.ai
+Lab results not attached,Incoming lab results appear in inbox but are not attached to patient charts.,Arjun,arjun@orx.ai
+Provider schedule missing,Provider schedule for next week is blank for one location only.,Arjun,arjun@orx.ai
+E-signature not capturing,Patient e-signature field is blank after signing intake forms.,Arjun,arjun@orx.ai
+Encounter note save error,Encounter note fails to save with error code 500.,Arjun,arjun@orx.ai
+Prescription print format wrong,Printed prescriptions are missing dosing instructions and font is cut off.,Arjun,arjun@orx.ai
+Insurance eligibility check failed,Eligibility check returns service unavailable for all patients today.,Arjun,arjun@orx.ai
+Referral fax failed,Referral fax queue shows failed for all faxes since 9 AM.,Arjun,arjun@orx.ai
+Immunization registry sync delay,Immunization records are not syncing to registry for the past 24 hours.,Arjun,arjun@orx.ai
+Patient portal message missing,Patient sent a portal message but it is not visible in staff inbox,Arjun,arjun@orx.ai
+User permissions incorrect,Nurse role can access admin billing screens after update.,Arjun,arjun@orx.ai
+Charting template not available,New diabetes template is not visible to clinicians in template list.,Arjun,arjun@orx.ai
+Failed document upload,PDF upload fails with unsupported format although file is PDF.,Arjun,arjun@orx.ai
+Audit log incomplete,Audit log entries are missing for edits made yesterday.,Arjun,arjun@orx.ai
+Payment posting mismatch,Payments posted are not reducing outstanding balance on account.,Arjun,arjun@orx.ai
+Task list not updating,Completed tasks remain in open list until page refresh.,Arjun,arjun@orx.ai
+Claim rejection not showing,Payer rejection details are not visible in claim details screen.,Arjun,arjun@orx.ai
+Missing provider on claim,Rendered-by provider is missing on generated claim file.,Arjun,arjun@orx.ai
+Allergies not saving,Allergy entries disappear after saving patient profile.,Arjun,arjun@orx.ai
+Multi-factor code not received,Users not receiving MFA codes via email or SMS.,Arjun,arjun@orx.ai
+Encounter billing code suggestion wrong,Suggested billing codes do not match diagnosis for visit.,Arjun,arjun@orx.ai
+Lab order status stuck,Lab order remains in ordered status after results received.,Arjun,arjun@orx.ai
+Patient merge failed,Attempted to merge duplicate patients returns merge failed.,Arjun,arjun@orx.ai
+Provider notes missing in portal,Shared visit summary does not include provider notes.,Arjun,arjun@orx.ai
+Appointment check-in error,Front desk receives error when checking in patient at kiosk.,Arjun,arjun@orx.ai
+Email notifications bounced,Outbound emails are bouncing with SMTP 550 error.,Arjun,arjun@orx.ai
+New user invite link expired,Invite link reports expired immediately after being sent.,Arjun,arjun@orx.ai
+Form autofill incorrect,Autofill fills wrong patient DOB in intake form.,Arjun,arjun@orx.ai
+Report export empty,Monthly revenue report exports blank CSV.,Arjun,arjun@orx.ai
+Document preview fails,Clicking document preview shows blank viewer.,Arjun,arjun@orx.ai
+Patient search slow,Global patient search takes over 20 seconds to return results.,Arjun,arjun@orx.ai
+Telehealth link not generated,No telehealth link is created for virtual appointments.,Arjun,arjun@orx.ai
+Calendar view missing appointments,Week view shows missing appointments for one provider.,Arjun,arjun@orx.ai
+Charge capture missing items,Charge capture does not include vaccine administration fee.,Arjun,arjun@orx.ai
+Insurance card scan error,Insurance card scanning returns camera unavailable.,Arjun,arjun@orx.ai
+Address validation incorrect,Address validator changes correct address to wrong postal code.,Arjun,arjun@orx.ai
+Portal registration failed,Patient portal registration fails at step 2 with generic error.,Arjun,arjun@orx.ai
+Referral letter template broken,Referral letter template renders with broken placeholders.,Arjun,arjun@orx.ai
+Inventory count mismatch,Inventory shows negative counts after stock adjustment.,Arjun,arjun@orx.ai
+Appointment cancellation email missing,Canceling appointment does not send confirmation email to patient.,Arjun,arjun@orx.ai
+Consent form not retained,Signed consent form disappears from documents after refresh.,Arjun,arjun@orx.ai
+Progress note printing cut off,Printed progress note cuts off right margin and signatures.,Arjun,arjun@orx.ai
+Charge override not applied,Manual charge override reverts to original after save.,Arjun,arjun@orx.ai
+Patient photo upload fails,JPEG photo upload fails with file too large under 1MB.,Arjun,arjun@orx.ai
+Claims batch not created,Batch creation shows success but no batch appears in list.,Arjun,arjun@orx.ai
+Clinical decision support pop-up stuck,CDS alert cannot be dismissed and blocks charting.,Arjun,arjun@orx.ai
+Lab interface mapping issue,Lab interface maps test code to wrong LOINC.,Arjun,arjun@orx.ai
+Appointment status not updated,Marking appointment as arrived keeps status as scheduled.,Arjun,arjun@orx.ai
+Patient balance statement wrong,Statements show duplicated line items and incorrect totals.,Arjun,arjun@orx.ai
+Eligibility response missing,Eligibility response panel shows blank for all payers.,Arjun,arjun@orx.ai
+Forms queue not loading,Forms queue page shows spinner and never loads.,Arjun,arjun@orx.ai
+Encounter locked incorrectly,Encounter is locked by unknown user and cannot be edited.,Arjun,arjun@orx.ai
+Medication list duplicates,Medication list shows duplicates after eRx import.,Arjun,arjun@orx.ai
+Task notifications delayed,Task assignment notifications arrive hours later.,Arjun,arjun@orx.ai
+Provider group assignment lost,Provider group assignments removed after nightly sync.,Arjun,arjun@orx.ai
+Claim file rejected by payer,Payer rejects claim file due to invalid header segment.,Arjun,arjun@orx.ai
+Portal access for minor patients,Parents cannot access minor patient portal despite consent.,Arjun,arjun@orx.ai
+Appointment waitlist not working,Waitlist does not notify when slot becomes available.,Arjun,arjun@orx.ai
+Problem list sorting wrong,Problem list does not sort by date added.,Arjun,arjun@orx.ai
+Referral status not updating,Referral status remains sent after confirmation received.,Arjun,arjun@orx.ai
+Insurance plan not selectable,New insurance plan created but not selectable in registration.,Arjun,arjun@orx.ai
+SSO login redirect loop,SSO login loops back to login page after authentication.,Arjun,arjun@orx.ai
+Patient portal document download fails,Patients cannot download shared documents from portal.,Arjun,arjun@orx.ai
+Clinic location timezone wrong,Appointments display one hour off for one location.,Arjun,arjun@orx.ai
+Custom field not saving,Custom patient field resets to blank after save.,Arjun,arjun@orx.ai
+Chart export missing attachments,Chart export PDF excludes uploaded attachments.,Arjun,arjun@orx.ai
+Messaging template variables wrong,Template variables render as blank in outbound messages.,Arjun,arjun@orx.ai
+User deactivation failed,Deactivated user still appears as active and can log in.,Arjun,arjun@orx.ai
+Provider signature not applied,Provider signature not attached to final note.,Arjun,arjun@orx.ai
+Allergy interaction checker down,Interaction checker returns error for all patients.,Arjun,arjun@orx.ai
+Mobile app sync issue,Mobile app shows outdated appointments and does not sync.,Arjun,arjun@orx.ai
+Lab results PDF corrupted,Downloaded lab result PDF is corrupted and cannot open.,Arjun,arjun@orx.ai
+Insurance card image blurry,Captured insurance card image is too blurry after upload.,Arjun,arjun@orx.ai
+Claims status not refreshing,Claims status remains submitted after payment posted.,Arjun,arjun@orx.ai
+Patient merge audit missing,Merge action not recorded in audit log.,Arjun,arjun@orx.ai
+Provider availability not updating,Updated availability not reflected in scheduling grid.,Arjun,arjun@orx.ai
+Clinical reminders missing,Preventive care reminders not displayed in patient chart.,Arjun,arjun@orx.ai
+Referral fax cover page wrong,Fax cover page shows incorrect clinic address.,Arjun,arjun@orx.ai
+Payment plan not applying,Payment plan schedule not applied to patient balance.,Arjun,arjun@orx.ai
+Charting autosave failed,Autosave did not run and unsaved note was lost.,Arjun,arjun@orx.ai
+Encounter diagnosis code mismatch,Diagnosis code changes revert after signing encounter.,Arjun,arjun@orx.ai
+Visit summary email not sent,Visit summary email not delivered to patient.,Arjun,arjun@orx.ai
+Patient portal password reset fails,Password reset email link shows invalid token.,Arjun,arjun@orx.ai
+Document routing rule ignored,Document routing rule does not assign to expected queue.,Arjun,arjun@orx.ai
+Immunization forecast incorrect,Forecast suggests wrong due date for next vaccine.,Arjun,arjunkorandla@orx.ai
+Eligibility copay field missing,Eligibility response missing copay field values.,Arjun,arjunkorandla@orx.ai
+Claims adjustment not posted,Adjustment entry does not affect claim balance.,Arjun,arjunkorandla@orx.ai
+Inventory reorder alerts missing,Low stock reorder alerts not generated overnight.,Arjun,arjunkorandla@orx.ai
+Provider license expiration alert wrong,License expiration alert shows wrong date.,Arjun,arjunkorandla@orx.ai
+Patient consent revocation not honored,Revoked consent still allows document sharing to portal.,Arjun,arjunkorandla@orx.ai

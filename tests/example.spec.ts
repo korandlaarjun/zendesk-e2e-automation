@@ -12,8 +12,10 @@ test.describe('Zendesk E2E Tests', () => {
   });
 
   test('should have main navigation', async ({ page }) => {
+    await page.goto('/');
+
     // Check if main navigation is visible
-    const navbar = page.locator('nav, [role="navigation"]');
+    const navbar = page.getByRole('navigation', { name: 'Global Primary Navigation' });
     await expect(navbar).toBeVisible();
   });
 

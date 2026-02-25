@@ -8,12 +8,27 @@
     "test:headed": "playwright test --headed",
     "test:debug": "playwright test --debug",
     "test:ui": "playwright test --ui",
-    "codegen": "playwright codegen https://zendesk.com"
+    "codegen": "playwright codegen https://pederorxai.zendesk.com/login",
+    "CreateTicket": "npx playwright test --grep CreateTicket --workers=1",
+    "GetTicket": "npx playwright test --grep GetTicket --workers=1"
   },
-  "keywords": ["zendesk", "automation", "e2e", "playwright"],
+  "keywords": [
+    "zendesk",
+    "automation",
+    "e2e",
+    "playwright"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@playwright/test": "^1.40.0"
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^25.3.0",
+    "@types/nodemailer": "^7.0.11",
+    "dotenv": "^16.0.0"
+  },
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "nodemailer": "^8.0.1",
+    "playwright": "^1.58.2"
   }
 }
