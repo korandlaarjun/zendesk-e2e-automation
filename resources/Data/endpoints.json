@@ -1,0 +1,15 @@
+{
+    "dev": {
+      "host": "https://pederorxai.zendesk.com",
+      "email": "dev@orx.ai",
+        "password": "fne9QJB-xbg6eab9qze",
+        "AUTH_API_TOKEN": "ZGV2QG9yeC5haS90b2tlbjpZa09BeVNLdDU1dzc1QVlnc3Q2c0VNdXBvekN0d1d4cUlqZGtSMFpG"
+    },
+    "staging": {
+      "host": "https://orx-oscarprostaging.zendesk.com",
+      "email": "dev@orx.ai",
+        "password": "ORXOscarProStaging2025",
+        "AUTH_API_TOKEN": "ZGV2QG9yeC5haS90b2tlbjpFZG9ad2dIckdOZmk5c0drR0plRVQzUndTMEF2WVBxQURFcnhGQTRp"
+    }
+
+}
