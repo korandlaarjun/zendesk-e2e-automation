@@ -16,7 +16,7 @@ const rateLimitWait = async () => new Promise<void>((resolve) => setTimeout(reso
 
 var filtersRecords: any = [];
 const filters = new Map([
-    ["Scenario", 'create ticket']
+    ["Scenario", 'create ticket1']
 ]);
 filtersRecords = getTestData(filters, 'resources/Data/createTickets.csv');
 
